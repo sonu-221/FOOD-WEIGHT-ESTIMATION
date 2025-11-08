@@ -1,0 +1,9 @@
+food,calories,protein,carbs,fat,fiber,vitamin_a,vitamin_c,calcium,iron
+burger,354,16g,29g,18g,1g,2%,1%,10%,15%
+cake,350,3g,45g,16g,1g,4%,0%,6%,4%
+ice_cream,207,3g,24g,11g,0g,8%,0%,10%,0%
+pizza,285,12g,36g,10g,2g,8%,2%,20%,10%
+salad,150,5g,10g,10g,4g,120%,30%,8%,6%
+samosa,262,5g,30g,14g,3g,0%,10%,2%,8%
+sandwich,350,15g,35g,15g,2g,6%,2%,15%,10%
+steak,271,25g,0g,19g,0g,0%,0%,1%,15%
